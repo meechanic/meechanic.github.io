@@ -1,3 +1,3 @@
-* abc
- * bb
- * cc
+- abc
+ - bb
+ - cc

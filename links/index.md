@@ -1,4 +1,4 @@
-Я в этих ваших интернетах
+# Я в этих ваших интернетах
 
 * Зачем-то создал ЖЖ: <https://meechanic.livejournal.com/>
 * Влез в фейсбук: <https://www.facebook.com/ostrie.brevna>
@@ -18,7 +18,7 @@
 * О, даже python-пакетами балуюсь: <https://pypi.org/user/meechanic/>
 * В студенческие годы использовал Википедию в качестве записной книжки (только тсс!): <https://habr.com/ru/users/ostrie_brevna/>
 
-Кроме того
+## Кроме того
 
 * Иногда доступен в Телеграме: <https://telegram.me/mike_meechanic>
 * Для олдосов есть e-mail: <meechanic.design@gmail.com>

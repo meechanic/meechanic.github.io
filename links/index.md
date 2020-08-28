@@ -7,7 +7,7 @@
 * Запилил регу на Реддите: <https://www.reddit.com/user/meechanic>
 * Когда-то графоманствовал в стихотворной форме: <https://stihi.ru/avtor/condratium>
 * Как могу плету сеть профессиональных контактов: <https://www.linkedin.com/in/mikhail-efremov-3064bb97/>
-* Здесь тоже написано про работу, но чуть менее официально: <https://career.habr.com/meechanic>
+* Здесь тоже отмечаю места работы, но чуть менее официально: <https://career.habr.com/meechanic>
 * Делаю вид, что пишу код: <https://github.com/meechanic>
 * А тут даже не пытаюсь делать вид, что пишу код: <https://gitlab.com/meechanic>
 * Не исключено, что подвернулся вам на этом сайте: <https://meechanic.github.io>
@@ -21,4 +21,4 @@
 ## Кроме того
 
 * Иногда доступен в Телеграме: <https://telegram.me/mike_meechanic>
-* Для олдосов есть e-mail: <meechanic.design@gmail.com>
+* Для олдскульных чуваков и спама (только интересного) имею e-mail: <meechanic.design@gmail.com>

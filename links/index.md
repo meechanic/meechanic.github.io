@@ -16,7 +16,7 @@
 * Во вселенной Stackexchange в основном читатель, но иногда даже пишу слова: <https://stackexchange.com/users/5875926/mikhail-efremov?tab=accounts>
 * Даже докерхаб-аккаунт создал для экспериментов: <https://hub.docker.com/u/meechanic>
 * О, даже python-пакетами балуюсь: <https://pypi.org/user/meechanic/>
-* В студенческие годы использовал Википедию в качестве записной книжки (только тсс!): <https://habr.com/ru/users/ostrie_brevna/>
+* В студенческие годы использовал Википедию в качестве записной книжки (только тсс!): <https://ru.wikipedia.org/wiki/Special:Contributions/Meechanic>
 
 ## Кроме того
 

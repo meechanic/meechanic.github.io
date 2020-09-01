@@ -29,5 +29,3 @@
 
 * Иногда доступен в Телеграме: <https://telegram.me/mike_efremov>
 * Для олдскульных чуваков и спама (только интересного) имею e-mail: <meechanic.design@gmail.com>
-
-## experimental string

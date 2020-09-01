@@ -1,11 +1,10 @@
+<p align="center">
+  <img src="me.jpg" alt="Me" width="200">
+</p>
+
 # Привет,
 
-<table border="0" style="width:100%">
-  <tr>
-    <td><img src="me.jpg" alt="Me" width="200"></td>
-    <td style="text-align: left; vertical-align: middle;"><b>Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того</b></td>
-  </tr>
-</table>
+Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того
 
 ## я в этих ваших интернетах
 

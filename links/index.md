@@ -12,10 +12,10 @@
 * А тут даже не пытаюсь делать вид, что пишу код: <https://gitlab.com/meechanic>
 * Не исключено, что подвернулся вам на этом сайте: <https://meechanic.github.io>
 * Может быть даже нашёлся через эту страничку: <http://meechanic.ru>
-* Когда-то хотел сделать сайт об интересных мне (точных) науках: <http://metamath.ru>
+* Когда-то хотел сделать сайт об интересных мне точных науках (воз и ныне там): <http://metamath.ru>
 * Во вселенной Stackexchange в основном читатель, но иногда даже пишу слова: <https://stackexchange.com/users/5875926/mikhail-efremov?tab=accounts>
 * Даже докерхаб-аккаунт создал для экспериментов: <https://hub.docker.com/u/meechanic>
-* О, даже python-пакетами балуюсь: <https://pypi.org/user/meechanic/>
+* О, даже созданием python-пакетов балуюсь (на момент последнего обновления там целый один пакет): <https://pypi.org/user/meechanic/>
 * В студенческие годы использовал Википедию в качестве записной книжки (только тсс!): <https://ru.wikipedia.org/wiki/Special:Contributions/Meechanic>
 
 ## Кроме того

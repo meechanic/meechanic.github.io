@@ -2,7 +2,7 @@
 
 <table border="0" style="width:100%">
   <tr>
-    <td><img src="me.jpg" alt="Me"></td>
+    <td><img src="me.jpg" alt="Me" width="600"></td>
     <td><b>Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того</b></td>
   </tr>
 </table>

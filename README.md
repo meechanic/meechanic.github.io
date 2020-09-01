@@ -1,8 +1,13 @@
 # Привет,
 
-Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того
+<table style="width:100%">
+  <tr>
+    <td>![Me](me.jpg)</td>
+    <td>**Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того**</td>
+  </tr>
+</table>
 
-# я в этих ваших интернетах
+## я в этих ваших интернетах
 
 * Влез в фейсбук: <https://www.facebook.com/ostrie.brevna>
 * Завёл инстач: <https://www.instagram.com/mike_meechanic/>
@@ -23,5 +28,5 @@
 
 ## а также
 
-* Иногда доступен в Телеграме: <https://telegram.me/mike_meechanic>
+* Иногда доступен в Телеграме: <https://telegram.me/mike_efremov>
 * Для олдскульных чуваков и спама (только интересного) имею e-mail: <meechanic.design@gmail.com>

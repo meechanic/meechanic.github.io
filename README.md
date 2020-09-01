@@ -1,9 +1,9 @@
 # Привет,
 
-<table style="width:100%">
+<table border="0" style="width:100%">
   <tr>
-    <td>![Me](me.jpg)</td>
-    <td>**Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того**</td>
+    <td><img src="me.jpg" alt="Me"></td>
+    <td><b>Меня зовут Михаил. Мне захотелось завести страничку на Github Pages и я сделал это. Кроме того</b></td>
   </tr>
 </table>
 

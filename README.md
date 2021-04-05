@@ -9,7 +9,6 @@
 * Когда учился в институте, создал акк на Хабре, чтобы оставить один комментарий, и понеслась: <https://habr.com/ru/users/ostrie_brevna/>
 * Запилил регу на Реддите: <https://www.reddit.com/user/meechanic>
 * Зачем-то создал ЖЖ (когда это уже не было мейнстримом): <https://meechanic.livejournal.com/>
-* Когда-то графоманствовал в стихотворной форме: <https://stihi.ru/avtor/condratium>
 * Как могу плету сеть профессиональных контактов: <https://www.linkedin.com/in/mikhail-efremov-3064bb97/>
 * Здесь тоже отмечаю места работы, но чуть менее официально: <https://career.habr.com/meechanic>
 * Делаю вид, что пишу код: <https://github.com/meechanic>

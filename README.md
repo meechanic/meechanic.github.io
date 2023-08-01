@@ -12,7 +12,7 @@ My personal interest are: non-fiction books, mostly about science and scientists
 Also, I love mathematics and physics and there are so much wonderful things to explore in depth for me in this areas :)
 
 Here are some of my social network pages:
-  * https://career.habr.com/meechanic
-  * https://www.linkedin.com/in/mikhail-efremov-3064bb97/
+  * [career.habr.com/meechanic](https://career.habr.com/meechanic)
+  * [www.linkedin.com/in/mikhail-efremov-3064bb97/](https://www.linkedin.com/in/mikhail-efremov-3064bb97/)
 
 If you want to contact me you can use [email](mailto:meechanic.design@gmail.com).

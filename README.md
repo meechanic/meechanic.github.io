@@ -6,7 +6,7 @@ My professional interests are concentrated around development of various backend
 
 I'm a big fan of UNIX-like systems. For a long time I work as a system administrator of large systems based on Linux, FreeBSD and Solaris.
 
-I prefer text user interface to GUI. Really. I'm not a frontend or GUI developer, but I really love Terminals and Consoles.
+I prefer text user interface to GUI. Really. I'm not a frontend or GUI developer, and I really love Terminals and Consoles.
 
 My personal interest are: non-fiction books, mostly about science and scientists' biographies.
 Also, I love mathematics and physics and there are so much wonderful things to explore in depth for me in this areas :)

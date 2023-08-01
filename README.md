@@ -1,10 +1,10 @@
-# Yet Another Homepage
+# About me
 
 My name is Mikhail Efremov, I'm software engeneer.
 
-My professional interests are concentrated around development of various backend APIs and clients fot them (mostly in Python).
+My professional interests are concentrated around development of various backend APIs and clients for them (mostly in Python).
 
-I'm a big fan of UNIX-like systems. For a long time I work as a system administrator of large systems based on Linux, FreeBSD and Solaris.
+I'm a big fan of UNIX-like systems. For a long time I worked as a system administrator of large systems based on Linux, FreeBSD and Solaris.
 
 I prefer text user interface to GUI. Really. I'm not a frontend or GUI developer, and I really love Terminals and Consoles.
 

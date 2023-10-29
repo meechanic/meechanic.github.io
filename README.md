@@ -16,4 +16,6 @@ Here are some of my social network pages:
   * [career.habr.com/meechanic](https://career.habr.com/meechanic)
   * [habr.com/ru/users/Ostrie_Brevna/](https://habr.com/ru/users/Ostrie_Brevna/)
 
-If you want to contact me you can use [email](mailto:meechanic.design@gmail.com).
+Here is information about some of my pet-projects: [link](about/projects.md)
+
+If you want to contact me you can use [email](mailto:meechanic.design@gmail.com) or [telegram](t.me/mike_efremov)

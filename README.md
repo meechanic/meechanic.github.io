@@ -18,4 +18,4 @@ Here are some of my social network pages:
 
 Here is information about some of my pet-projects: [link](about/projects.md)
 
-If you want to contact me you can use [email](mailto:meechanic.design@gmail.com) or [telegram](t.me/mike_efremov)
+If you want to contact me you can use [email](mailto:meechanic.design@gmail.com) or [telegram](https://t.me/mike_efremov)
